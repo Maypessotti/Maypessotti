@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Mayara pessotti
 
 - 🔭 Estudando Front-end
-- 😄 Pronouns: Ela/dela
+- 😄 Pronomes: Ela/dela
 -->
 
   <div>
